@@ -1,0 +1,29 @@
+{
+  "name": "t3brightside/microdistro",
+  "description": "TYPO3 CMS distribution – based on Microtemplate.",
+  "type": "typo3-cms-distribution",
+  "version": "0.0.1",
+  "keywords": ["TYPO3 CMS", "distribution", "package", "starter"],
+  "homepage": "https://microtemplate.t3brightside.com/",
+  "license": "GPL-2.0+",
+  "authors": [
+      {
+          "name": "Tanel Põld",
+          "role": "Developer",
+          "email": "info@t3brightside.com",
+          "homepage": "https://t3brightside.com"
+      }
+  ],
+  "require": {
+    "typo3/cms-core": ">=8.7.0,<9.0",
+    "gridelementsteam/gridelements": ">=8.2.1,<9.0",
+    "t3brightside/microtemplate": "^0.1.2",
+    "dmitryd/typo3-realurl": "^2.3",
+    "typo3-ter/unroll": "^2.0",
+    "t3brightside/personnel": "^1.0.0",
+    "t3brightside/pagelist": "^1.0.0",
+    "t3brightside/metaplus": "^0.0.5",
+    "t3brightside/youtubevideo": "^1.2.3",
+    "gridelementsteam/gridelements": "^8.2.1"
+  }
+}
