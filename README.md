@@ -29,9 +29,9 @@
 
 ## Sources
 
--  GitHub
--  Packagist
--  TER –
+-  [GitHub](https://github.com/t3brightside/microdistro)
+-  [Packagist](https://packagist.org/packages/t3brightside/microdistro)
+-  TER – Soon to come
 
 Development and maintenance
 ---------------------------
