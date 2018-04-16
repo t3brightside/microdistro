@@ -8,7 +8,7 @@
 
 ## Includes
 
-- Microtemplate / https://microtemplate.t3brightside.com/
+- Microtemplate – https://microtemplate.t3brightside.com/
 - Meta Plus & RealURL for SEO
 - Pagelist – For articles and page teasers
 - Personnel – For contact persons with vCard
