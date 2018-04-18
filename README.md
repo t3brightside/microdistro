@@ -22,7 +22,7 @@
 
  - Install TYPO3 8.7 LTS via composer
  - Add Micro-Distro: _composer require t3brightside/microdistro_
- - or Go to TYPO3 back end and install: Microtemplate Distribution
+ - or Go to TYPO3 back end and install: Microtemplate Distribution (microdistro)
  - Open RealURL configuration in TYPO3 back end, save, clear caches and reload your page
 
 ## Usage
