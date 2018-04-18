@@ -2,7 +2,7 @@
 
 **TYPO3 CMS ditribution package to introduce Microtemplate and few other useful tools for small company, startup or an even web site.**
 
-[**Content Demo**](https://extensions.typo3.org/extension/microdistro/)
+[**Content Demo**](https://microdistro.t3brightside.com/)
 
 ## System requirements
 
