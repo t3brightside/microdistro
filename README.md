@@ -2,6 +2,8 @@
 
 **TYPO3 CMS ditribution package to introduce Microtemplate and few other useful tools for small company, startup or an even web site.**
 
+[**Content Demo**](https://extensions.typo3.org/extension/microdistro/)
+
 ## System requirements
 
 - TYPO3 8.7 LTS
@@ -32,7 +34,7 @@
 
 -  [GitHub](https://github.com/t3brightside/microdistro)
 -  [Packagist](https://packagist.org/packages/t3brightside/microdistro)
--  TER – Soon to come
+-  [TER](https://extensions.typo3.org/extension/microdistro/)
 
 Development and maintenance
 ---------------------------
