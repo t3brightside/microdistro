@@ -1,6 +1,6 @@
 {
   "name": "t3brightside/microdistro",
-  "description": "TYPO3 CMS distribution – based on Microtemplate.",
+  "description": "TYPO3 CMS distribution – based on Microtemplate. Good starter for a small company, startup or an event web site.",
   "type": "typo3-cms-distribution",
   "version": "0.0.1",
   "keywords": ["TYPO3 CMS", "distribution", "package", "starter"],
